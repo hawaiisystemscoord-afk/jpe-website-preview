@@ -1,0 +1,5 @@
+files: 40
+missing relative refs: none
+remote image refs in html: none
+noindex present: no
+journeyman/licensed/certified wording present: no
