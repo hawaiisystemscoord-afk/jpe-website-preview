@@ -1,19 +1,20 @@
 {
-  "name": "Bobek Power Solutions",
-  "short_name": "Bobek Power",
-  "description": "Electrical, generator, and power support for North Hawai\u02bbi.",
-  "start_url": "/",
+  "name": "JPE Civil & Environmental Engineers",
+  "short_name": "JPE",
+  "description": "Civil and environmental engineering for Hawaiʻi properties.",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#202326",
-  "theme_color": "#202326",
+  "background_color": "#f7f4ec",
+  "theme_color": "#0b2f44",
   "icons": [
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "assets/img/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-512x512.png",
+      "src": "assets/img/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
